@@ -12,5 +12,7 @@ private String nome;
         this.cpf = cpf;
         this.nome = nome;
     }
-
+    public String getNome() {
+        return nome;
+    }
 }
